@@ -1,3 +1,7 @@
+<?php
+include_once './Model/Dbconfig.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
